@@ -4,6 +4,7 @@
 }
 
 .abt-me-img {
+	margin: 10px;
 	width: 300px;
 	float: left;
 	
@@ -48,11 +49,15 @@
 	background-color: #ffffff;
 	border: solid .1px #cccccc;
 }
+.sidebar-img {
+	height: 10px;
+	width: 20px;
+}
 
 #column-right {
 	background-color: #ffffff;
 	width: 270px;
-	height: 460px;
+	height: 240px;
 }
 
 footer {
