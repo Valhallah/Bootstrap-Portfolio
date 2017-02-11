@@ -43,6 +43,15 @@
 	
 }
 
+/*portfolio image text*/ 
+.portfolio-img-text { 
+	height: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #777777;
+	font-size: 20px;
+
+}
+
 /*Main Content*/
 .col-md-7 {	 
 	background-color: #ffffff;
